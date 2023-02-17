@@ -2,4 +2,13 @@
     font-size: 40px;
     color:aqua;
     font-style: italic;
+    font-family: 'Tourney', cursive;
+ }
+
+ p {
+   font-family: 'Asap Condensed', sans-serif;
+   line-height: 28px;
+   color: OrangeRed;
+   font-size: 16px;
+
  }
