@@ -78,3 +78,15 @@ text-align:center;
 padding: 10px 0;
 height: 80px;  
 }
+
+nav {
+  padding: 20px;
+}
+
+.nav-links {
+    list-style-type: none;
+}
+
+.nav-links li {
+      display: inline;
+}
